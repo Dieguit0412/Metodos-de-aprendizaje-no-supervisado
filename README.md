@@ -45,5 +45,33 @@ Eje X: estación origen (codificada)
 Eje Y: estación destino (codificada)
 
 Color: cluster al que pertenece cada ruta
+🖼️ Resultados
+Se obtuvieron 3 clusters que agrupan trayectos similares. Esto permite visualizar patrones o rutas que podrían optimizarse o estudiarse según cercanía o distribución espacial.
+
+El gráfico generado muestra:
+
+Eje X: estación origen (codificada)
+
+Eje Y: estación destino (codificada)
+
+Color: cluster al que pertenece cada ruta
+
+🎥 Video explicativo
+📽️ Puedes ver el video del proyecto en el siguiente enlace:
+[Enlace al video aquí]
+
+📌 Cómo ejecutar
+Asegúrate de tener Python y los siguientes paquetes instalados:
+
+bash
+Copiar
+Editar
+pip install pandas matplotlib scikit-learn
+Ejecuta el script:
+
+bash
+Copiar
+Editar
+python clustering_transmilenio.py
 
 
